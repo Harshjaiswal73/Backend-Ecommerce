@@ -20,7 +20,7 @@ import com.example.shopping.management.Service.UserService;
 
 import lombok.RequiredArgsConstructor;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://ecommerce-frontend-jbgj.vercel.app")
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/api/auth")
