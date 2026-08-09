@@ -141,7 +141,7 @@ public class SecurityConfiguration {
                 List.of(
                     "http://localhost:5173",
                     "http://localhost:3000",
-                    "https://ecommerce-frontend-jbgj.vercel.app/"
+                    "https://ecommerce-frontend-peach-xi.vercel.app"
                 )
         );
 
