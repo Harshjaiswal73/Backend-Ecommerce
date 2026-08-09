@@ -25,7 +25,7 @@ import lombok.RequiredArgsConstructor;
 @RestController
 @RequestMapping("/admin/pannel")
 @RequiredArgsConstructor
-@CrossOrigin(origins= "http://localhost:3000")
+@CrossOrigin(origins= "https://ecommerce-frontend-jbgj.vercel.app")
 public class AdminController {
 
 	@Autowired
